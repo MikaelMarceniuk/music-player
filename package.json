@@ -1,0 +1,7 @@
+{
+  "name": "@music-player/root",
+  "private": true,
+  "workspaces": [
+    "apps/*"
+  ]
+}
